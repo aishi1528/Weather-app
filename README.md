@@ -12,13 +12,6 @@ This app fetches live weather data using a public API and displays it with a cle
 
 Built using plain HTML, CSS, and JavaScript — no frameworks or libraries required.
 
-## 🛠 How to Use
-
-1. Open the live demo link above or download the project.
-2. Open `index.html` in your browser.
-3. Enter the name of any city to get its current weather.
-4. Enjoy!
-
 ## 🧠 Credits
 
 - Weather data provided by [OpenWeatherMap API](https://openweathermap.org/api)
