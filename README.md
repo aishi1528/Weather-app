@@ -1,23 +1,23 @@
-# ☁️ Weather App
+# Weather App
 
-A simple and responsive weather application that lets you check the current weather conditions for any city in the world.
+A simple app to check the weather anywhere in the world. Just type in a city name and get the latest weather info instantly.
 
-## 🔗 Live Demo
+## Live Demo
 
-[Try it out here!](https://aishi1528.github.io/Weather-app/)
+Check it out here:  
+https://aishi1528.github.io/Weather-app/
 
-## 📦 About This Project
+## What It Does
 
-This app fetches live weather data using a public API and displays it with a clean, user-friendly interface. It shows details like temperature, humidity, wind speed, and weather conditions in real time.
+- Shows current temperature and humidity 
+- Updates weather details in real-time  
 
-Built using plain HTML, CSS, and JavaScript — no frameworks or libraries required.
 
-## 🧠 Credits
+## Notes
 
-- Weather data provided by [OpenWeatherMap API](https://openweathermap.org/api)
-- Built with vanilla JavaScript and Leaflet.js
+The app uses data from the OpenWeatherMap API, so internet connection is required.
 
 ---
 
-
+Made just for fun and practice with JavaScript. Feel free to use and improve it!
 
